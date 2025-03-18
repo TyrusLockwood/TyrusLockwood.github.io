@@ -1,0 +1,1 @@
+import{c as o,o as t,b as c,C as _}from"./DMoyCzOj.js";import{_ as n}from"./DlAUqK2U.js";const s={},a={class:"lay"};function r(f,m){const e=_;return t(),o("div",a,[c(e)])}const p=n(s,[["render",r]]);export{p as default};
