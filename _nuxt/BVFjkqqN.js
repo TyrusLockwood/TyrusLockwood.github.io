@@ -1,0 +1,1 @@
+import{k as s,a as o,b as e,A as t,o as c}from"./BPHySCki.js";const n={},r={class:"rules-container"};function l(_,a){return c(),o("div",r,a[0]||(a[0]=[e("div",null,[e("div",{class:"content"},[e("img",{src:t,alt:""}),e("h1",null,"Welcome aboard Tabbiy! 🎉")])],-1)]))}const i=s(n,[["render",l],["__scopeId","data-v-e429a2a2"]]);export{i as default};
