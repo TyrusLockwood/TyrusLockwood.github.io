@@ -1,0 +1,4 @@
+# Tabbiy - Tab Auto Grouping & Management Expert.
+
+> Tabbiy is a powerful Chrome extension designed to effortlessly manage your browser tabs.
+
