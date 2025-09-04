@@ -1,4 +1,26 @@
-# Tabbiy - Tab Auto Grouping & Management Expert.
+# Tabbiy - Tab Auto Grouping & Management Expert
 
-> Tabbiy is a powerful Chrome extension designed to effortlessly manage your browser tabs.
+> Tabbiy is a powerful tab manager with vertical sidebar tabs. It supports auto grouping, search, tab save & sleep functionality—find tabs in 1s, boost productivity.
+
+## Core Features
+- **Vertical Sidebar**: Open the sidepanel list using the shortcut (ALT+D), where you can perform operations such as grouping, saving, hibernating tabs, and drag-and-drop reordering.
+- **Auto Grouping**: Click the "Auto" button at the bottom of the list, and the system will automatically categorize tabs into corresponding groups based on domain names or your custom-set rules, keeping the tab bar neat and organized.(Click again to ungroup all)
+- **Tab Hibernation**: Click the "Hibernate" button in the bottom toolbar or list to hibernate tabs and free up memory; when you need to access them again, simply wake them up.
+- **Tab Saving**: Click the "Save" button in the bottom toolbar or list to store tabs in the staging list, maximizing memory release; when you need to access them again, you can restore them with one click.
+- **Switch to "Recent" Tab**: Use the shortcut (ALT+E) to quickly switch between the current tab and the last opened one, which is especially useful for comparing content between two tabs.
+- **Personalized Settings**: A comprehensive settings panel covers grouping rules, interface styles, shortcuts, and languages, helping you create a personalized tab management experience.
+
+## Main Pages
+- [Home](https://tabbiy.com/): Product introduction and core feature overview
+- [Usage Guide](https://tabbiy.com/usage): Detailed tutorials and best practices
+- [Group Rules](https://tabbiy.com/rules): Custom grouping rules and automation configuration
+- [FAQ](https://tabbiy.com/faq): Frequently asked questions and answers
+- [Changelog](https://tabbiy.com/changelog): Version updates and feature improvements
+
+## Technical Features
+- Multi-browser support
+- Intelligent grouping algorithms
+- Memory optimization technology
+- User-friendly interface design
+- Customizable rule system
 
