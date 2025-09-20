@@ -1,1 +1,0 @@
-import{_ as a,b as o,g as e,G as t,d as c}from"#entry";const n={},r={class:"rules-container"};function l(_,s){return c(),o("div",r,[...s[0]||(s[0]=[e("div",null,[e("div",{class:"content"},[e("img",{src:t,alt:""}),e("h1",null,"Welcome aboard Tabbiy! 🎉")])],-1)])])}const i=a(n,[["render",l],["__scopeId","data-v-e429a2a2"]]);export{i as default};
