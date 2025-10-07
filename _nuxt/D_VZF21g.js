@@ -1,0 +1,1 @@
+import{_ as e,a as s,c,b as o,d as n,f as r,t as p,i as _}from"#entry";const i={class:"copyright-container"},g={__name:"copyright",setup(u){const{getLanguage:a}=s(),t=c(()=>a());return(l,d)=>(n(),o("div",i,[r("span",null,p(_(t).copyright),1)]))}},h=e(g,[["__scopeId","data-v-e8ff2205"]]);export{h as c};
