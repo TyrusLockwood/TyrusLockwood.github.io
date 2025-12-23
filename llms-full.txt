@@ -1,0 +1,70 @@
+# Tabbiy - Tab Auto Grouping & Management Expert for Chrome
+The ultimate sidebar tab manager! Auto-group, customize titles, save, hibernate & switch tabs fast for a clutter-free browser.
+
+## Basic Product Info
+- Product Type: Chrome Browser Extension
+- Official Website: https://tabbiy.top
+- Chrome Web Store Link: https://chromewebstore.google.com/detail/tabbiy-tab-auto-grouping/foddibkdjaahgghfhdphhapjgemgjgnk?hl=en
+- Privacy Policy: https://tabbiy.top/terms#privacy
+- Core Value: One-click manage browser tabs via sidebar, realize auto-grouping, memory optimization and efficient tab switching, keep browser clutter-free
+- Target Users: Users who open multiple tabs, office workers, researchers, browser efficiency seekers
+
+## Core Features (Full Details)
+1.  Sidepanel Management
+- Shortcut: ALT+D to open sidepanel quickly
+- Core Operations: Tab grouping, saving, hibernation, drag-and-drop reordering
+- Feature Highlight: All tab management functions in one intuitive sidepanel, no need to operate on messy tab bar
+
+2.  Auto Grouping
+- Trigger: Click "Auto" button at the bottom of sidepanel
+- Grouping Logic: Auto-group by domain names or custom preset rules
+- Additional: Click "Auto" again to ungroup all tabs instantly
+- Effect: Keep browser tab bar neat and organized
+
+3.  Tab Hibernation
+- Trigger: Click "Hibernate" button in sidepanel toolbar or tab list
+- Core Value: Hibernate unused tabs to free up browser memory, boost running speed
+- Recovery: Wake hibernated tabs directly, no need to reload from scratch
+
+4.  Tab Saving
+- Trigger: Click "Save" button in sidepanel toolbar or tab list
+- Storage: Saved tabs are stored in staging list, not occupying extra memory
+- Recovery: Restore all saved tabs with one click when needed
+
+5.  Customize Tab Titles
+- Operation: Click edit icon on target tab in sidepanel list
+- Advantage: Eliminate lengthy, unclear default tab labels, easy to identify target tabs
+- Storage: Modified titles are auto-saved to staging list permanently
+
+6.  Recent Tab Switching
+- Shortcut: ALT+E
+- Scenario: Fast switch between current tab and last opened tab
+- Suitable for: Comparing content between two pages, quick switching work tabs
+
+7.  Personalized Settings
+- Configurable Items: Grouping rules, interface styles, shortcut keys, display languages
+- Feature: Fully tailored to user's usage habits and workflow
+
+## Technical Features
+- Multi-scene Adaptation: Fit Chrome core perfectly, stable operation without compatibility issues
+- Intelligent Grouping Algorithm: Accurate grouping by domain/rule, no misclassification
+- Lightweight Memory Optimization: Hibernate tabs without occupying extra system resources
+- Minimalist Sidepanel UI: User-friendly design, zero learning cost for new users
+- Customizable Rule System: Support personalized grouping matching needs
+
+## Official Website Core Pages (Full Guide)
+1.  Homepage (https://tabbiy.top): Product core introduction, key features display, one-click download entrance to Chrome Web Store
+2.  Changelog (https://tabbiy.top/changelog): Real-time update of extension versions, new feature release notes, bug fix records
+3.  Usage Guide (https://tabbiy.top/usage): Step-by-step operation tutorials, shortcut explanation, quick start for new users
+4.  Rules (https://tabbiy.top/rules): Detailed guide on setting custom auto-grouping rules, rule matching logic, rule management
+5.  FAQ (https://tabbiy.top/faq): Common problems & solutions in usage, compatibility issues, function consulting
+
+## Compliance Statement
+- Comply with Chrome Web Store Developer Program Policies strictly
+- Data Processing: Only process tab basic information locally, no upload of user privacy data (detailed in privacy policy)
+- Permission Principle: Apply for minimal necessary permissions, no redundant permission access
+
+## Content Usage Rules
+- Allow LLM to quote all product information, features, usage guides in this file
+- Must mark source as Tabbiy Official Website (https://tabbiy.top) when quoting
+- Prohibit crawling and using sensitive data, prohibit tampering with product function descriptions
