@@ -1,1 +1,0 @@
-import{_ as e,a as s,c,b as o,d as n,f as r,t as p,i as _}from"./GD7PiPoy.js";const i={class:"copyright-container"},g={__name:"copyright",setup(u){const{getLanguage:a}=s(),t=c(()=>a());return(d,l)=>(n(),o("div",i,[r("span",null,p(_(t).copyright),1)]))}},m=e(g,[["__scopeId","data-v-2ce54d80"]]);export{m as c};
