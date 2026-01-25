@@ -1,1 +1,0 @@
-import{_ as e,a as s,b as c,d as o,f as n,t as r,i as p,c as _}from"./Btx2SxOv.js";const i={class:"copyright-container"},g={__name:"copyright",setup(u){const{getLanguage:a}=s(),t=_(()=>a());return(d,l)=>(o(),c("div",i,[n("span",null,r(p(t).copyright),1)]))}},m=e(g,[["__scopeId","data-v-2ce54d80"]]);export{m as c};
