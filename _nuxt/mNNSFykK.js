@@ -1,0 +1,1 @@
+import{_ as t,a as s,b as c,c as o,e as n,t as r,h as p,j as _}from"./DheNQGNd.js";const g={class:"copyright-container"},i={__name:"copyright",setup(u){const{getLanguage:a}=s(),e=_(()=>a());return(l,d)=>(c(),o("div",g,[n("span",null,r(p(e).copyright),1)]))}},m=t(i,[["__scopeId","data-v-2ce54d80"]]);export{m as c};
