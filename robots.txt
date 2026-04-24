@@ -1,6 +1,7 @@
 # START nuxt-robots (indexable)
 User-agent: *
-Disallow: 
+Disallow: /welcome
+Disallow: /pro-success
 
-Sitemap: http://localhost/sitemap.xml
+Sitemap: https://tabbiy.top/sitemap.xml
 # END nuxt-robots

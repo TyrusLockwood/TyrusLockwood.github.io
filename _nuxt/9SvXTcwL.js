@@ -1,0 +1,1 @@
+const n=(t,o,c,r)=>{const a=t===1;return`${a?"":r+"."}${o}${a?" ":"."}${c}${a?", ":""}${a?r:""}`},e=async t=>{try{await navigator.clipboard.writeText(t)}catch(o){console.warn("Clipboard API failed, using fallback:",o)}};export{e as c,n as f};
