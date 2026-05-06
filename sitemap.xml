@@ -4,6 +4,9 @@
         <loc>https://tabbiy.top/</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tabbiy.top/" />
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tabbiy.top/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://tabbiy.top/" />
         <image:image>
             <image:loc>https://tabbiy.top/screenshot.png</image:loc>
             <image:title>Tabbiy Chrome Extension Screenshot</image:title>
@@ -19,36 +22,36 @@
         </image:image>
     </url>
     <url>
-        <loc>https://tabbiy.top/changelog</loc>
+        <loc>https://tabbiy.top/changelog/</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://tabbiy.top/changelog" />
-        <xhtml:link rel="alternate" hreflang="zh" href="https://tabbiy.top/changelog" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://tabbiy.top/changelog" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tabbiy.top/changelog/" />
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tabbiy.top/changelog/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://tabbiy.top/changelog/" />
     </url>
     <url>
-        <loc>https://tabbiy.top/faq</loc>
+        <loc>https://tabbiy.top/faq/</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://tabbiy.top/faq" />
-        <xhtml:link rel="alternate" hreflang="zh" href="https://tabbiy.top/faq" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://tabbiy.top/faq" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tabbiy.top/faq/" />
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tabbiy.top/faq/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://tabbiy.top/faq/" />
     </url>
     <url>
-        <loc>https://tabbiy.top/pricing</loc>
+        <loc>https://tabbiy.top/pricing/</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://tabbiy.top/pricing" />
-        <xhtml:link rel="alternate" hreflang="zh" href="https://tabbiy.top/pricing" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://tabbiy.top/pricing" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tabbiy.top/pricing/" />
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tabbiy.top/pricing/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://tabbiy.top/pricing/" />
     </url>
     <url>
-        <loc>https://tabbiy.top/rules</loc>
+        <loc>https://tabbiy.top/rules/</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://tabbiy.top/rules" />
-        <xhtml:link rel="alternate" hreflang="zh" href="https://tabbiy.top/rules" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://tabbiy.top/rules" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tabbiy.top/rules/" />
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tabbiy.top/rules/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://tabbiy.top/rules/" />
         <image:image>
             <image:loc>https://tabbiy.top/assets/img-rules/rules-1.webp</image:loc>
             <image:title>Tab Grouping Rules Creation</image:title>
@@ -67,20 +70,20 @@
         </image:image>
     </url>
     <url>
-        <loc>https://tabbiy.top/terms</loc>
+        <loc>https://tabbiy.top/terms/</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://tabbiy.top/terms" />
-        <xhtml:link rel="alternate" hreflang="zh" href="https://tabbiy.top/terms" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://tabbiy.top/terms" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tabbiy.top/terms/" />
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tabbiy.top/terms/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://tabbiy.top/terms/" />
     </url>
     <url>
-        <loc>https://tabbiy.top/usage</loc>
+        <loc>https://tabbiy.top/usage/</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://tabbiy.top/usage" />
-        <xhtml:link rel="alternate" hreflang="zh" href="https://tabbiy.top/usage" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://tabbiy.top/usage" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://tabbiy.top/usage/" />
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tabbiy.top/usage/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://tabbiy.top/usage/" />
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.6.0 at 2026-05-05T17:50:55.827Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.6.0 at 2026-05-06T12:10:25.430Z -->
